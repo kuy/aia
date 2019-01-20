@@ -31,8 +31,8 @@ Script collection for Adobe Illustrator CC.
 
 ## Reference
 
-English - [Computational Geometry](https://www.springer.com/jp/book/9783662034279)
-日本語 - [コンピュータ・ジオメトリ](https://www.kindaikagaku.co.jp/information/kd0277.htm)
+- English - [Computational Geometry](https://www.springer.com/jp/book/9783662034279)
+- 日本語 - [コンピュータ・ジオメトリ](https://www.kindaikagaku.co.jp/information/kd0277.htm)
 
 ## License
 
