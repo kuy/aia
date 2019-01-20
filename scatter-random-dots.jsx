@@ -1,5 +1,5 @@
 // scatter-random-dots.jsx
-// https://github.com/kuy
+// https://github.com/kuy/aia/blob/master/scatter-random-dots.jsx
 // Copyright(c) 2019 Yuki KODAMA / @kuy
 // This script is distributed under the MIT License.
 

@@ -1,5 +1,5 @@
 // convex-hull.jsx
-// https://github.com/kuy
+// https://github.com/kuy/aia/blob/master/convex-hull.jsx
 // Copyright(c) 2019 Yuki KODAMA / @kuy
 // This script is distributed under the MIT License.
 
