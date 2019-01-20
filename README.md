@@ -29,13 +29,18 @@ Script collection for Adobe Illustrator CC.
 1. Select dots (paths)
 2. Run script
 
-## Author
+## Reference
 
-Yuki Kodama / [@kuy](https://twitter.com/kuy)
+English - [Computational Geometry](https://www.springer.com/jp/book/9783662034279)
+日本語 - [コンピュータ・ジオメトリ](https://www.kindaikagaku.co.jp/information/kd0277.htm)
 
 ## License
 
 MIT
+
+## Author
+
+Yuki Kodama / [@kuy](https://twitter.com/kuy)
 
 ## Acknowledgements
 
