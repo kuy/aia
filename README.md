@@ -16,7 +16,7 @@ Script collection for Adobe Illustrator CC.
 
 1. Create a rectangle path that covers you want to place dots
 2. Select the rectangle
-3. Run script from `File > Scripts > Other Scripts...`
+3. Run script
 
 ### `slow-convex-hull.jsx`
 
