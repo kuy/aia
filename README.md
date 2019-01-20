@@ -20,6 +20,10 @@ Script collection for Adobe Illustrator CC.
 
 ### `slow-convex-hull.jsx`
 
+#### **DO NOT USE**
+
+*This script is not robust, too naive to use for production.*
+
 WIP
 
 ## Author
