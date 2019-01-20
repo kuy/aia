@@ -18,13 +18,16 @@ Script collection for Adobe Illustrator CC.
 2. Select the rectangle
 3. Run script
 
-### `slow-convex-hull.jsx`
-
-#### **DO NOT USE**
+### **[DO NOT USE]** `slow-convex-hull.jsx`
 
 *This script is not robust, too naive to use for production.*
 
-WIP
+### `convex-hull.jsx`
+
+#### Usage
+
+1. Select dots (paths)
+2. Run script
 
 ## Author
 
