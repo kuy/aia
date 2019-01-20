@@ -2,6 +2,12 @@
 
 Script collection for Adobe Illustrator CC.
 
+## Installation
+
+1. Download zip file from [this link](https://github.com/kuy/aia/archive/master.zip)
+2. Unzip the file and put into script directory (ex. `/Applications⁩/⁨Adobe Illustrator CC 2019⁩/Presets⁩/en_US/Scripts⁩`)
+3. Run script from `File > Scripts > Other Scripts...` menu in Adobe Illustrator
+
 ## Scripts
 
 ### `scatter-random-dots.jsx`
