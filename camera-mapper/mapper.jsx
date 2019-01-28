@@ -11,6 +11,16 @@ function createDot(g, x, y, r, c) {
   dot.stroked = false;
 }
 
+function createPixel(g, x, y, r, c) {
+  var pixel = g.pathItems.rectangle(y + r, x - r, 2 * r, 2 * r);
+  pixel.filled = false;
+  var color = new RGBColor();
+  color.red = color.green = color.blue = c;
+  pixel.strokeColor = color;
+  pixel.strokeWidth = 2;
+  pixel.stroked = true;
+}
+
 function renderImage(group, data) {
   group.pathItems.removeAll();
 
@@ -20,7 +30,7 @@ function renderImage(group, data) {
     var x = 0, xmax = 53;
     while (x < xmax) {
       var color = parseInt(data.slice(0, 2), 16);
-      createDot(group, x * 2 * R, y * -2 * R, R, color);
+      createPixel(group, x * 2 * R, y * -2 * R, R, color);
       data = data.slice(2)
       x++;
     }
