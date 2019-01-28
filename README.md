@@ -2,6 +2,12 @@
 
 Script collection for Adobe Illustrator CC.
 
+## Environment
+
+- `macOS 10.14`
+- `Python 2.7`
+- `virtualenv 16.2.0`
+
 ## Installation
 
 1. Download zip file from [this link](https://github.com/kuy/aia/archive/master.zip)
@@ -28,6 +34,27 @@ Script collection for Adobe Illustrator CC.
 
 1. Select dots (paths)
 2. Run script
+
+### `camera-map`
+
+#### Prepare
+
+`source vent/bin/activate`
+`pip install -r requirements.txt`
+
+#### Run
+
+1. Open blank canvas with Adobe Illustrator
+2. Run JSX script (`Cmd + F12`)
+3. Focus text input
+4. Run Python script
+
+## Memo
+
+`source .env/bin/activate`
+`easy_install atomac`
+`pip install pyobjc opencv-python`
+`deactivate`
 
 ## Reference
 
