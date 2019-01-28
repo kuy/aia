@@ -35,7 +35,7 @@ Script collection for Adobe Illustrator CC.
 1. Select dots (paths)
 2. Run script
 
-### `camera-map`
+### `camera-mapper`
 
 #### Prepare
 
@@ -45,9 +45,9 @@ Script collection for Adobe Illustrator CC.
 #### Run
 
 1. Open blank canvas with Adobe Illustrator
-2. Run JSX script (`Cmd + F12`)
+2. Run `mapper.jsx` script
 3. Focus text input
-4. Run Python script
+4. Run `camera.py` script
 
 ## Memo
 
